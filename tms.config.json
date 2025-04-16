@@ -1,0 +1,8 @@
+{
+    "url": "url",
+    "privateToken": "token",
+    "projectId": "projectId",
+    "configurationId": "configurationId",
+    "testRunId": "testRunId",
+    "adapterMode": "2"
+}
