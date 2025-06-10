@@ -3,7 +3,7 @@
 ## How to import from scratch
 
 ```
-go get github.com/testit-tms/adapters-go@vX.X.X # v0.3.4
+go get github.com/testit-tms/adapters-go@v0.4.0 # v0.4.1
 ```
 
 ## How to run
